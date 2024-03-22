@@ -1,5 +1,5 @@
 # GTHistoricalBuilds
-GTHistoricalBuilds is a Gorilla Tag based repository dedicated to preserving builds of the game before Release ``v1.0.1``. 
+GTHistoricalBuilds is a Gorilla Tag based repository dedicated to preserving builds of the game on and before Release ``v1.0.1``. 
 ## Format
 GTHistoricalBuilds is formatted based on:
 - The year of the build being posted
